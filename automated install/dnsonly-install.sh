@@ -4,7 +4,7 @@
 #
 # Install with this command (from the Pi):
 #
-# wget -q "https://raw.githubusercontent.com/Giermann/pi-hole/master/automated%20install/dnsonly-install.sh" | bash
+# wget -qO- "https://raw.githubusercontent.com/Giermann/pi-hole/master/automated%20install/dnsonly-install.sh" | bash
 #  -or-
 # curl -s "https://raw.githubusercontent.com/Giermann/pi-hole/master/automated%20install/dnsonly-install.sh" | bash
 #
